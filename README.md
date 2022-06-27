@@ -44,8 +44,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Demo
 
-https://drive.google.com/file/d/1wiov2ISIq4G28YvjXmK6J8Ot-Sb3zSec/view
-
+A walkthrough video: [Screencastify](https://drive.google.com/file/d/1sYy2-N2PWscdo6kuxTpS0x486FufqPpf/view)
 ## Credits
 - [Simon-Xu-Lan](https://github.com/Simon-Xu-Lan)
 
