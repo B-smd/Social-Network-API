@@ -4,7 +4,7 @@
 
 ## Description
 
-Social Network API is a backend, it allows users to share their thought, are able to react to friend's thoughts, and create a friend. For the database we use MongoDB, Mongoose also use Express, Node and Nodemon. Use @faker-js/faker for creating seed.
+Social Network API is a backend, it allows users to share their thought, are able to react to friend's thoughts, and create a friend that uses a NoSQL database. For the database we use MongoDB, Mongoose also use Express, Node and Nodemon. MongoDB is a popular choice for many social networks due to its speed with large amounts of data and fleksibility with unstructured data. Use @faker-js/faker for creating seed and also I was creating some of them from insomnia.
 
 ## Table of Contents (Optional)
 
